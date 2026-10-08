@@ -1,0 +1,40 @@
+# Environments
+.venv/
+venv/
+env/
+.python-version
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data: keep generators in the repo, keep generated data out
+data/
+*.parquet
+*.db
+*.duckdb
+*.csv
+!**/fixtures/*.csv
+
+# Secrets
+.env
+*.key
+credentials.json
+
+# OS and editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
