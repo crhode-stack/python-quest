@@ -31,3 +31,6 @@ quest XP and move straight on.
 
 _What you learned. Write this before moving on; it is where the XP
 write-up bonus comes from and it is what makes this repo readable later._
+
+Morse code translator: 
+When I originally wrote my Morse code translator in Turbo Pascal back in 1999, I believe I used either nested IF statements or CASE statements to match characters to their Morse code equivalents. Python's dictionaries eliminate the need for those lengthy conditional statements, allowing me to store and retrieve character mappings directly. Python also simplifies string manipulation and allows me to reverse the dictionary for decoding, removing much of the repetitive logic I would have needed in Pascal.
