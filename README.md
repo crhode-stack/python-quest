@@ -13,7 +13,7 @@ This page is the ledger. It gets updated every Sunday.
 ```
 Started:            2026-10-08
 Current level:      1 / 10
-XP:                 0 / 8,500
+XP:                 175 / 8,500
 Current streak:     0 days      Multiplier: x1.0
 Longest streak:     0 days
 ```
