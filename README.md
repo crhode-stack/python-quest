@@ -22,7 +22,7 @@ Longest streak:     0 days
 
 | Level | Title | Quests | Boss | Skip test |
 |---|---|---|---|---|
-| 1 | Initiate | ☐ ☐ ☐ | ☐ | ☐ |
+| 1 | Initiate | ☑ ☐ ☐ | ☐ | ☐ |
 | 2 | Apprentice | ☐ ☐ ☐ | ☐ | ☐ |
 | 3 | Journeyman | ☐ ☐ ☐ | ☐ | ☐ |
 | 4 | Adept | ☐ ☐ ☐ | ☐ | ☐ |
@@ -37,7 +37,7 @@ Longest streak:     0 days
 
 | | Achievement | Rarity |
 |---|---|---|
-| ☐ | Hello Again | Common |
+| ☑ | Hello Again | Common |
 | ☐ | Comprehension Fluency | Uncommon |
 | ☐ | Reproducible | Uncommon |
 | ☐ | Chain of Custody | Rare |
